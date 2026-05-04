@@ -6,7 +6,7 @@ export default function JewelleryProducts() {
 
       {/* Product Cards */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-        {jwelProductgit remote add origin https://github.com/aiiongoldclaim/etdo_fashion.git.map((item, index) => (
+
           <div
             key={index}
             className="bg-white rounded-2xl p-3 shadow-sm hover:shadow-xl transition-all duration-300 group cursor-pointer"
